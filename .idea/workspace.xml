@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8ac8bbf-1291-452c-974b-b82b67275d43" name="Changes" comment="added module_7_3.py">
-      <change afterPath="$PROJECT_DIR$/module_7_4.py" afterDir="false" />
+    <list default="true" id="d8ac8bbf-1291-452c-974b-b82b67275d43" name="Changes" comment="added module_7_4.py">
+      <change afterPath="$PROJECT_DIR$/module_7_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
     "Python.module_7_4.executor": "Run",
+    "Python.module_7_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Dmitry/PycharmProjects/Urban_Python_7"
@@ -103,13 +104,22 @@
       <option name="project" value="LOCAL" />
       <updated>1721774104521</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added module_7_4.py">
+      <option name="closed" value="true" />
+      <created>1721779716435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721779716435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added module_7_1.py" />
     <MESSAGE value="added module_7_2.py" />
     <MESSAGE value="added module_7_3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added module_7_3.py" />
+    <MESSAGE value="added module_7_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added module_7_4.py" />
   </component>
 </project>
